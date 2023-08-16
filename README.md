@@ -3,9 +3,9 @@
 <h3 align="center">A Computer Science student hoping to become a senior</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif">
 
-- 🔭 I’m currently working on **Python Research**
+- 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **Concurrency**
+- 🌱 I’m currently learning **To be better**
 
 - 📫 How to reach me: **jalbertoqz@gmail.com**
 
