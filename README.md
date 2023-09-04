@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **To be better**
+- 🌱 I’m currently learning **how life can be**
 
 - 📫 How to reach me: **jalbertoqz@gmail.com**
 
